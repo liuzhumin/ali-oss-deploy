@@ -1,10 +1,14 @@
 {
-  "name": "test",
+  "name": "ali-oss-deploy",
   "version": "1.0.4",
   "description": "deploy the project to ali oss",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liuzhumin/ali-oss-deploy"
   },
   "keywords": [
     "ali-oss",
